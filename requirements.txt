@@ -1,6 +1,6 @@
 streamlit
 pandas
 os
-dotenv
+python-dotenv
 openai
 tiktoken
